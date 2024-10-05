@@ -1,6 +1,6 @@
 # TerrainRecognitionSIH
 
-This is our efforts to solve a little problem statement given to us in Smart India Hackathon 2023
+This is our efforts to solve a little problem statement given to us in SIH 2023
 
 ## How to run the website on your system.
 
